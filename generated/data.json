@@ -8,6 +8,18 @@
             "Bla bla bla",
             "Bla bla bladsfsdgfgfd"
         ],
+        "airport": [
+            "Vnukovo",
+            "Domodedovo"
+        ],
+        "museums": [
+            "Pushkina, worktime from 8 AM to 5 PM, ticket price 10 RUB",
+            "RedSquare, worktime from 6 AM to 11 PM, ticket price - FREE"
+        ],
+        "transport": [
+            "Metro, oneway ticket 6 RUB, WeekPass 'Troika' 100 RUB",
+            "BUS, WeekPass 'Troika' 100 RUB"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
         "categories": [
             "Russia"
@@ -21,6 +33,18 @@
         "examples": [
             "Bla bla bla",
             "Bla bla bladsfsdgfgfd"
+        ],
+        "airport": [
+            "JFK",
+            "Queens"
+        ],
+        "museums": [
+            "Metropolitain, worktime from 11 AM to 5 PM, ticket price 20$",
+            "Indian museum, worktime from 10 AM to 5 PM, ticket price - FREE"
+        ],
+        "transport": [
+            "Metro, oneway ticket 2.50$, WeekPass 32$",
+            "BUS, oneway ticket 2.50$, WeekPass 32$"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
         "categories": [
