@@ -1,0 +1,32 @@
+[
+    {
+        "id": "moscow",
+        "name": "Moscow",
+        "oneliner": "Moscow (/ˈmɒskoʊ/, /ˈmɒskaʊ/; Russian: Москва, tr. Moskva, IPA: [mɐˈskva] (About this soundlisten)) is the capital and largest city of Russia. ",
+        "description": "The city stands on the Moskva River in Central Russia, with a population estimated at 12.4 million residents within the city limits, while over 17 million residents in the urban area, and over 20 million residents in the Moscow Metropolitan Area.",
+        "examples": [
+            "Bla bla bla",
+            "Bla bla bladsfsdgfgfd"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+        "categories": [
+            "Russia"
+        ]
+    },
+    {
+        "id": "nyc",
+        "name": "New York City",
+        "oneliner": "New York City (NYC), often simply called New York, is the most populous city in the United States.",
+        "description": "With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York City is also the most densely populated major city in the United States.[",
+        "examples": [
+            "Bla bla bla",
+            "Bla bla bladsfsdgfgfd"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
+        "categories": [
+            "USA"
+        ]
+    }
+]
+
+
