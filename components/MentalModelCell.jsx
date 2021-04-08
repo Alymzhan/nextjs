@@ -98,12 +98,32 @@ class MentalModelCell extends Component {
                 <div>
                   <ReactMarkdown source={model.description} />
                 </div>
-                <h4>Examples</h4>
+                <h4>Airport</h4>
                 <ul>
-                  {model.examples.map((example, index) => {
+                  {model.airport.map((airport, index) => {
                     return (
                       <li key={index}>
-                        <ReactMarkdown source={example} />
+                        <ReactMarkdown source={airport} />
+                      </li>
+                    );
+                  })}
+                </ul>
+                <h4>Public transport</h4>
+                <ul>
+                  {model.transport.map((transport, index) => {
+                    return (
+                      <li key={index}>
+                        <ReactMarkdown source={transport} />
+                      </li>
+                    );
+                  })}
+                </ul>
+                <h4>Museums</h4>
+                <ul>
+                  {model.museums.map((museums, index) => {
+                    return (
+                      <li key={index}>
+                        <ReactMarkdown source={museums} />
                       </li>
                     );
                   })}
