@@ -65,16 +65,6 @@
             "BUS, WeekPass 'Troika' 100 RUB"
         ],
         "popular_food" : [
-            "Dollar slice pizza (1$)",
-            "Dollar coffee (1$)",
-            "Bagel (from 3$)",
-            "New York-style pizza (from 3$/slice)",
-            "The bacon, egg and cheese on roll sandwich   (from 4$)",
-            "Hot dog (from 5$)",
-            "Falafel (from 6$/roll)",
-            "Meat/chicken over rice (from 7$)",
-            "New York cheesecake (from 5$/cake)",
-            "Pastrami sandwich (from 21$)"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
         "categories": [
@@ -142,6 +132,18 @@
         "transport": [
             "Metro, oneway ticket 2.50$, WeekPass 32$",
             "BUS, oneway ticket 2.50$, WeekPass 32$"
+        ],
+        "popular_food" : [
+            "Dollar slice pizza (1$)",
+            "Dollar coffee (1$)",
+            "Bagel (from 3$)",
+            "New York-style pizza (from 3$/slice)",
+            "The bacon, egg and cheese on roll sandwich   (from 4$)",
+            "Hot dog (from 5$)",
+            "Falafel (from 6$/roll)",
+            "Meat/chicken over rice (from 7$)",
+            "New York cheesecake (from 5$/cake)",
+            "Pastrami sandwich (from 21$)"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
         "categories": [
