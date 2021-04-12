@@ -128,6 +128,16 @@ class MentalModelCell extends Component {
                     );
                   })}
                 </ul>
+                <h4>Popular food</h4>
+                <ul>
+                  {model.popular_food.map((popular_food, index) => {
+                    return (
+                      <li key={index}>
+                        <ReactMarkdown source={popular_food} />
+                      </li>
+                    );
+                  })}
+                </ul>
                 <div className='mmc-more-info-container'>
                   <div className='mmc-more-info mmc-left'>
                     <Button
