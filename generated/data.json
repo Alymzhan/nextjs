@@ -61,10 +61,18 @@
             "Zoological Museum of Moscow University"
         ],
         "transport": [
-            "Metro, oneway ticket 6 RUB, WeekPass 'Troika' 100 RUB",
-            "BUS, WeekPass 'Troika' 100 RUB"
+            "Metro: oneway ticket 55 RUB. The most used travel card in Moscow is the Troika Card.",
+            "Buses, Trolleybuses and Trams: oneway ticket 55 RUB. The most used travel card in Moscow is the Troika Card."
         ],
         "popular_food" : [
+            "Blini (Russian pancakes)",
+            "Pelmeni (Russian dumplings)",
+            "Syrniki (cheese pancakes)",
+            "Kasha (Porridge)",
+            "Borscht (cabbage soup)",
+            "Okroshka (summer-style cold soup)",
+            "Pirozhki (baked or fried puff pastries with potatoes, meat, cabbage, cheese or jam)",
+            "Shashlik (kebab)"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
         "categories": [
@@ -130,8 +138,9 @@
             "Lower East Side Tenement Museum"
         ],
         "transport": [
-            "Metro, oneway ticket 2.50$, WeekPass 32$",
-            "BUS, oneway ticket 2.50$, WeekPass 32$"
+            "Subway: oneway ticket - 2.75$, Weekly Pass - 33$ (Pay with a MetroCard, or use contactless payment where OMNY scanners are available)",
+            "Bus (Local, Limited or Selected): oneway ticket - 2.75$, Weekly Pass - 33$ (Pay with a MetroCard, or use contactless payment where OMNY scanners are available)",
+            "Express Bus: oneway ticket - 6.75$ (Pay with a MetroCard, or use contactless payment where OMNY scanners are available)"
         ],
         "popular_food" : [
             "Dollar slice pizza (1$)",
