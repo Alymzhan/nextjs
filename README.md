@@ -1,8 +1,8 @@
 # MAp-Cy.com
-This is our new project, main idea is - create short descriptions for travelers.
-I don't like to search information, sometimes it can save your time if you will find everything what you need to know at one place and one page, that's simple!
-Each city has it's own desctription and you as reader can add more and more interesting facts, places and so on - but it should be short and simple to read.
-Share you knowledges with others!!! 
+This is our new project, the main idea is to create short descriptions about city for travel.
+I don't like to search information because it always devided by different web-sites and pages. Sometimes it can save your time if you will find everything at one page, that's simple!
+Each city has it's own description and you, as reader, can add more and more interesting facts, places and so on - but it should be short and simple to read.
+So, share you knowledges with others! 
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
