@@ -26,14 +26,17 @@ class HomePage extends Component {
     return (
       <Fragment>
         <Head>
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-CEWE9MYCHQ"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-CEWE9MYCHQ');
-          </script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CEWE9MYCHQ"/>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'G-CEWE9MYCHQ');
+                `,
+            }}
+          />
           <title>{SITE_TITLE}</title>
           <meta charSet='UTF-8' />
           <meta
