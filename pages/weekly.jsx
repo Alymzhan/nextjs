@@ -35,14 +35,22 @@ class ModelPage extends Component {
     return (
       <Fragment>
         <Head>
-          <title> Weekly Mental Model - {SITE_TITLE}</title>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CEWE9MYCHQ"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-CEWE9MYCHQ');
+          </script>
+          <title> Weekly City - {SITE_TITLE}</title>
           <meta charSet='UTF-8' />
           <meta name='description' content={striptags(model.oneliner)} />
           <meta name='keywords' content={`mental models,${model.name}`} />
         </Head>
         <Container fluid>
           <div className='center'>
-            <h1>weekly mental model</h1>
+            <h1>weekly city</h1>
           </div>
           <div className='center'>
             <h2>
@@ -54,11 +62,11 @@ class ModelPage extends Component {
           <div className='w-signup-twitter'>
             <div>
               <Button
-                icon='fab fa-twitter'
-                content='Follow us on Twitter for updates.'
+                icon='fab fa-instagram'
+                content='Follow us on Instagram for updates.'
                 fontSize='16px'
                 placeIconOnLeft
-                href='https://twitter.com/mentalmodelsbox'
+                href='https://www.instagram.com/life2nomads/'
               />
             </div>
           </div>

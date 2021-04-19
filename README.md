@@ -1,6 +1,6 @@
 # MAp-Cy.com
 This is our new project, the main idea is to create short descriptions about city for travel.
-I don't like to search information because it always devided by different web-sites and pages. Sometimes it can save your time if you will find everything at one page, that's simple!
+I don't like to search information because it always divided by different web-sites and pages. Sometimes it can save your time if you will find everything at one page, that's simple!
 Each city has it's own description and you, as reader, can add more and more interesting facts, places and so on - but it should be short and simple to read.
 So, share you knowledges with others! 
 
